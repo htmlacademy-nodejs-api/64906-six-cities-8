@@ -73,7 +73,7 @@ export class TsvFileReader implements FileReader {
   }
 
   private parseAmenities(amenities: string): Amenity[] {
-    return amenities.split(',').map((name) => (name as Amenity));
+    return amenities.split(', ').map((name) => (name as Amenity));
   }
 
   private parseAuthor(author: string): User {
