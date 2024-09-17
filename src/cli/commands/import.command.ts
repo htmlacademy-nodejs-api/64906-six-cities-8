@@ -1,3 +1,4 @@
+import chalk from 'chalk';
 import {Command} from '../../shared/interfaces/command.interface.js';
 import {TsvFileReader} from '../../shared/libs/file-reader/index.js';
 
@@ -14,8 +15,8 @@ export class Import implements Command {
         throw error;
       }
 
-      console.error(`Ошибка импорта из файла ${filename}`);
-      console.error(`Детали ошибки: ${error.message}`);
+      console.error(chalk.red.underline(`Ошибка импорта из файла ${filename}`));
+      console.error(chalk.red.underline(`Детали ошибки: ${error.message}`));
     }
   }
 
