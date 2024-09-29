@@ -1,0 +1,75 @@
+{
+  "api": {
+    "cities": [
+      "Paris",
+      "Cologne",
+      "Brussels",
+      "Amsterdam",
+      "Hamburg",
+      "Dusseldorf"
+    ],
+    "titles": [
+      "Cozy apartment in the heart of Paris",
+      "Luxury house in Cologne",
+      "Charming room in Brussels",
+      "Modern apartment in Amsterdam",
+      "Budget hotel room in Dusseldorf",
+      "Family-friendly house in Hamburg"
+    ],
+    "descriptions": [
+      "A beautiful and cozy apartment located in the center of Paris, close to all main attractions.",
+      "A spacious and luxurious house in the quiet neighborhood of Cologne, perfect for families.",
+      "A small but charming room available in a historic building in the center of Brussels.",
+      "A stylish modern apartment located near the canals of Amsterdam, ideal for tourists.",
+      "An affordable hotel room in Dusseldorf, great for short stays.",
+      "A family-friendly house with a big garden in Hamburg, close to the city center."
+    ],
+    "offerImages": [
+      "paris-apartment.jpg",
+      "cologne-house.jpg",
+      "brussels-room.jpg",
+      "amsterdam-apartment.jpg",
+      "dusseldorf-hotel.jpg",
+      "hamburg-house.jpg"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Air conditioning",
+      "Laptop friendly workspace",
+      "Baby seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "houseTypes": [
+      "apartment",
+      "house",
+      "room",
+      "hotel"
+    ],
+    "users": [
+      "Ryan Gosling",
+      "Dua Lipa",
+      "Charlie Brown",
+      "Diana Prince",
+      "Eve Adams",
+      "Frank West"
+    ],
+    "emails": [
+      "ryan.g@example.com",
+      "dua.l@example.com",
+      "charlie@example.com",
+      "diana@example.com",
+      "eve@example.com",
+      "frank@example.com"
+    ],
+    "avatars": [
+      "ryan.jpg",
+      "dua.jpg",
+      "charlie.jpg",
+      "diana.jpg",
+      "eve.jpg",
+      "frank.jpg"
+    ]
+  }
+}
