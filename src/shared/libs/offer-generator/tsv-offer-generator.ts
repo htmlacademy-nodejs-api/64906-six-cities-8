@@ -29,7 +29,7 @@ const COMMENT = {
 const COORDINATES = {
   min: 10,
   max: 100,
-  step: 1000,
+  step: 100,
 };
 
 export class TsvOfferGenerator implements OfferGenerator {
